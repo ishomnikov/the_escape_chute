@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Play_button",
+  "%Name":"schoolboy_character_logo",
   "eventList":[],
   "managed":true,
-  "name":"Play_button",
+  "name":"schoolboy_character_logo",
   "overriddenProperties":[],
   "parent":{
     "name":"The Escape Chute",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"playing_button",
-    "path":"sprites/playing_button/playing_button.yy",
+    "name":"SchoolBoy",
+    "path":"sprites/SchoolBoy/SchoolBoy.yy",
   },
   "spriteMaskId":null,
   "visible":true,

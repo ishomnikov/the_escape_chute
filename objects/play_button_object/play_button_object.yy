@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Play_button",
+  "%Name":"play_button_object",
   "eventList":[],
   "managed":true,
-  "name":"Play_button",
+  "name":"play_button_object",
   "overriddenProperties":[],
   "parent":{
-    "name":"The Escape Chute",
-    "path":"The Escape Chute.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -23,14 +23,13 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v1","%Name":"button_play","filters":[],"listItems":[],"multiselect":false,"name":"button_play","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":2,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"playing_button",
-    "path":"sprites/playing_button/playing_button.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
