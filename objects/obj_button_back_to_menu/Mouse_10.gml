@@ -1,0 +1,1 @@
+image_alpha = 0.5 // making button move slightly when mouse enters

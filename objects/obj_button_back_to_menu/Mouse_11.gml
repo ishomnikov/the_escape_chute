@@ -1,0 +1,1 @@
+image_alpha = 1; // setting button size back to normal when mouse leaves it

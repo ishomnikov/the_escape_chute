@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"play_button_object",
-  "eventList":[],
+  "%Name":"obj_controls",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"play_button_object",
+  "name":"obj_controls",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -23,9 +25,7 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v1","%Name":"button_play","filters":[],"listItems":[],"multiselect":false,"name":"button_play","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":2,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
