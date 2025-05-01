@@ -6,8 +6,8 @@
   "name":"schoolboy_character_logo",
   "overriddenProperties":[],
   "parent":{
-    "name":"The Escape Chute",
-    "path":"The Escape Chute.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
